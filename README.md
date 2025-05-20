@@ -1,4 +1,4 @@
-#🌐 Cybersense Navigator – Your AI-Powered Desktop Sidekick 🚀
+🌐 Cybersense Navigator – Your AI-Powered Desktop Sidekick 🚀
 Cybersense Navigator is an intelligent AI desktop assistant that fuses the convenience of voice-command automation with the conversational prowess of a chatbot. Designed to streamline your digital experience, Cybersense Navigator listens, understands, and acts — all with a simple voice prompt or text query.
 
 ✨ What It Does
