@@ -1,6 +1,6 @@
-# 🌐 Cybersense Navigator – Your AI-Powered Desktop Sidekick 🚀
+# 🌐 Cybersence Navigator – Your AI-Powered Desktop Sidekick 🚀
 
-**Cybersense Navigator** is an intelligent AI desktop assistant that fuses the convenience of voice-command automation with the conversational prowess of a chatbot. Designed to streamline your digital experience, Cybersense Navigator listens, understands, and acts — all with a simple voice prompt or text query.
+**Cybersence Navigator** is an intelligent AI desktop assistant that fuses the convenience of voice-command automation with the conversational prowess of a chatbot. Designed to streamline your digital experience, Cybersense Navigator listens, understands, and acts — all with a simple voice prompt or text query.
 
 ## ✨ What It Does
 
@@ -26,24 +26,6 @@ Think of it as **Jarvis, but for your desktop**. Cybersense Navigator isn't just
 * ✅ Lightweight and easy to run on most desktop environments
 * ✅ Modular code for easy customization or extension
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/yourusername/cybersense-navigator.git
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the assistant:
-
-   ```bash
-   python cybersense.py
-   ```
-
 > 💡 Tip: Make sure your mic is working and permissions are enabled for voice input!
 
 ## 🧠 Use Case Scenarios
@@ -61,7 +43,7 @@ Think of it as **Jarvis, but for your desktop**. Cybersense Navigator isn't just
 
 ---
 
-**Cybersense Navigator** makes your desktop experience smarter, smoother, and more human.
+**Cybersence Navigator** makes your desktop experience smarter, smoother, and more human.
 Step into the future — hands-free, hassle-free. 🌟
 
 > 🧠 *Navigate your world, the smart way.*
