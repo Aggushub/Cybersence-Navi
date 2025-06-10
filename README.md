@@ -48,6 +48,3 @@ Step into the future — hands-free, hassle-free. 🌟
 
 > 🧠 *Navigate your world, the smart way.*
 
----
-
-Let me know if you'd like it adapted for a GitHub page, portfolio, or presentation slide!
