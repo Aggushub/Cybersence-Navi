@@ -17,7 +17,7 @@ Think of it as **Jarvis, but for your desktop**. Cybersense Navigator isn't just
 * **SpeechRecognition + pyttsx3** – For real-time voice interaction
 * **NLTK / OpenAI GPT API** – Powers the chatbot and natural language understanding
 * **PyAutoGUI / OS libraries** – Enables automation and system control
-* **Tkinter (optional)** – For a simple GUI front-end interface
+* **Django** – For a simple GUI front-end interface
 
 ## 🌟 Why It Stands Out
 
